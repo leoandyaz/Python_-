@@ -13,3 +13,12 @@ Grados F a C
     
     print ( "los grados son " + str(r) + " C" )
 
+Menos variables
+
+         #Menos variables
+        
+        GradosF = float (input (" ingresa los grados Celcius "))
+        
+        Tempcel = (GradosF - 32 ) * 5/9
+        
+        print ( "los grados son " + str(Tempcel) + " C" )
