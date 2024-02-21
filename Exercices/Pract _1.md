@@ -18,6 +18,9 @@
 
 ## Una sola impresion
 
+    #Practica 2
+    #Andres Garcia Castro
+
     num1 = int(input("Ingresar el primer numero: "))
     num2 = int(input("Ingresar el segundo numero: "))
     
