@@ -1,7 +1,7 @@
 
 https://www.sololearn.com/es/compiler-playground/python
 
-https://www.programiz.com/python-programming/online-compiler/
+https://app.programiz.pro/code-playground
 
 
  # CALENDARIO
